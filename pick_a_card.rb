@@ -12,7 +12,7 @@ values.each do |value|
   end
 end
 
-cards.shufle!
+cards.shuffle!
 puts 'How many cards do you pick?'
 
 number = gets.to_i
